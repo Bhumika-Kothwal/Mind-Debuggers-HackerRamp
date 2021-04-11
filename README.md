@@ -14,9 +14,8 @@ This idea has been devised from real life situations where we compare new appare
 
 * [Description](#description)
 * [Technology Stack](#technology-stack)
-* [File Structure](#file-structure)
 * [Future Scope](#future-scope)
-* [Result - PerfectFit](#result-perfectfit)
+* [Result : PerfectFit](#result-:-perfectfit)
 
 ## Description
 This solution will help the customer buy their appropriate fit from anytime anywhere. 
@@ -45,5 +44,5 @@ Features aimed to be implemented in next phase :
 - [ ] Providing feature to capture images with camera having distance measuring feature
 - [ ] Providing separate login for Buyers and Sellers in the android app.
 
-## Result - PerfectFit
+## Result : PerfectFit
 ![Result](https://github.com/Bhumika-Kothwal/Mind-Debuggers/blob/master/Images/App%20Images/App_img2.jpg)
