@@ -44,6 +44,8 @@ Features aimed to be implemented in next phase :
 - [ ] Providing feature to capture images with camera having distance measuring feature
 - [ ] Providing separate login for Buyers and Sellers in the android app.
 
-## Result 
-**PerfectFit**
+## Result   
+
+### PerfectFit
+
 ![Result](https://github.com/Bhumika-Kothwal/Mind-Debuggers/blob/master/Images/App%20Images/App_img2.jpg)
